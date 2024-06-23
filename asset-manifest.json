@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MRLIve/static/css/main.e6c13ad2.css",
+    "main.js": "/MRLIve/static/js/main.1fb9516c.js",
+    "static/js/453.509da9f4.chunk.js": "/MRLIve/static/js/453.509da9f4.chunk.js",
+    "index.html": "/MRLIve/index.html",
+    "main.e6c13ad2.css.map": "/MRLIve/static/css/main.e6c13ad2.css.map",
+    "main.1fb9516c.js.map": "/MRLIve/static/js/main.1fb9516c.js.map",
+    "453.509da9f4.chunk.js.map": "/MRLIve/static/js/453.509da9f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1fb9516c.js"
+  ]
+}
